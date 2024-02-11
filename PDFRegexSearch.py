@@ -1,5 +1,5 @@
 #! python3
-# PDFRegexSearch.py - a simple script to find REGEXes in pdfs
+# PDFRegexSearch.py - a simple script to find your REGEXes in pdfs
 
 import PyPDF2
 import re
