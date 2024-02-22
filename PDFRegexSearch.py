@@ -6,7 +6,7 @@ import re
 import time
 import os
 
-pdf_folder = 'pdfs/'
+pdf_folder = os.path.join('pdfs', '')
 overlap_size = 10   # ADJUST sensible overlap_size
 block_size = 50     # ADJUST block size
 
