@@ -19,3 +19,9 @@ A simple Python script to search for content within PDF files using regular expr
    ```bash
    python -m pdf_regex_search.main
    ```
+
+## Future Plans:
+[] Add CLI
+[] Add GUI 
+[] Add tests
+[] Add exporting results to files (txt, CSV, JSON, etc.)
