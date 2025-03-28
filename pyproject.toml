@@ -1,0 +1,13 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "pdf-regex-search"
+version = "0.1.0"
+description = "A tool for searching regexps in PDFs"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pypdf>=5.4.0",
+]
